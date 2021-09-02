@@ -1,4 +1,4 @@
-# Burger-Builder  (React -- Classbased)
+# Burger-Builder  (React -- Class based)
 
 Make your delicious burger.
 
